@@ -20,3 +20,12 @@ revisando los id de los nucleos: cat /proc/cpuinfo | grep 'core id'
 ### dmidecode
 ### cpuid
 ### inxi, inxi -C
+
+## kernel
+uname -r 
+
+
+## resources
+
+https://wiki.archlinux.org/
+
